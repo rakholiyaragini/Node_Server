@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server</title>
+</head>
+
+    <style>
+        h1{
+            text-align: center;
+            background-color: cadetblue;
+            color: white;
+            padding: 10px 10px;
+        }
+    </style>
+<body>
+    
+    <h1>Hello , i'm Server</h1>
+</body>
+</html>173 - / : New Request157 - / : New Request157 - / : New Request334 - / : New Request201 - / : New Request981 - / : New Request678 - / : New Request
